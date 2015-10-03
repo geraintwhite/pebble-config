@@ -1,0 +1,10 @@
+{
+  "ignore": [
+    "ArcWatchface"
+  ],
+  "email": [
+    "mail@geraintwhite.co.uk"
+  ],
+  "copy_to": "/var/www/pebble.geraintwhite.co.uk",
+  "url": "http://pebble.geraintwhite.co.uk/"
+}
